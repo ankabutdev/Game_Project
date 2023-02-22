@@ -11,4 +11,4 @@ HEIGHT = 641
 FPS = 60
 title = "Sliding Puzzle Game"
 TILESIZE = 128
-GAME_SIZE = 3
+GAME_SIZE = 4
