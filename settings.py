@@ -5,7 +5,7 @@ DARKGREY = (40, 40, 40)
 LIGHTGREY = (100, 100, 100)
 BGCOLOUR = DARKGREY
 
-# game settings
+# game settings 
 WIDTH = 1100
 HEIGHT = 641
 FPS = 60
